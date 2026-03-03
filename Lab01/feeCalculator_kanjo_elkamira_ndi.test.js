@@ -1,7 +1,7 @@
 // feeCalculator_kanjo_elkamira_ndi.test.js
 // Author: Kanjo Elkamira Ndi
 
-const calculateFee = require('./feeCalculator_kanjo_elkamira_ndi.test.js');
+const {calculateFee} = require("./feeCalculator_kanjo_elkamira_ndi.js");
 
 describe("Banking Fee Calculator Tests", () => {
 
