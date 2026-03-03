@@ -34,5 +34,4 @@ function calculateFee(transactionType, amount) {
             throw new Error("Invalid transaction type");
     }
 }
-calculateFee();
-// module.exports = calculateFee;
+module.exports = { calculateFee };
