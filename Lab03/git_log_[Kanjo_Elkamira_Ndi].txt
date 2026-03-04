@@ -1,0 +1,13 @@
+c5c395b69f27bf31ef3df63125c5d52aecebd729 | Kanjo-Elkamira-Ndi | 2026-03-04 | Merge branch 'feature/calculator-Kanjo_Elkamira_Ndi' into lab03 Merge is necessary to demonstrate creating new features, pushing them to a branch then merging back into a single unit
+3a45232560e32437ad90b66e7b1dc3fbc69b28d1 | Kanjo-Elkamira-Ndi | 2026-03-04 | Kanjo Elkamira Ndi - Edited Lab 3's Readme.md file
+89dc557327f3b3e2a810b3578e6fbd6b9ca279b8 | Kanjo-Elkamira-Ndi | 2026-03-04 | Kanjo Elkamira Ndi -Edited calculator Module
+dec83204252fbedcf079b3340efb92e7a2c7ad71 | Kanjo-Elkamira-Ndi | 2026-03-04 | Kanjo Elkamira Ndi - Added calculator Module
+bc2902bd671cb0a70a2f1042899db1b904d01011 | Kanjo-Elkamira-Ndi | 2026-03-04 | Kanjo Elkamira Ndi - Initial Project Setup (For Lab03)
+f3ab4a5bf0e4b8decb654066797f2ea2a26360d1 | Kanjo-Elkamira-Ndi | 2026-03-04 | Readme File Added
+61de51561c19180be2e422da4980e207b797e743 | Alchemy Codes | 2026-03-04 | Merge pull request #3 from Kanjo-Elkamira-Ndi/lab02
+ed704652d9277173a5f496fbe6a80b36c607d9d1 | Kanjo-Elkamira-Ndi | 2026-03-04 | Lab 2 implemented successfully and all test passed
+9c590b917d9c902f8058dc020377d26af1ba010c | Alchemy Codes | 2026-03-04 | Merge pull request #2 from Kanjo-Elkamira-Ndi/lab02
+b91c986809938773371b44ff525db57a0b50d51b | Kanjo-Elkamira-Ndi | 2026-03-04 | Lab 2 files setup successfully
+cb1d4d4cda84282bc3ce65a3c43051e03a07c494 | Alchemy Codes | 2026-03-03 | Merge pull request #1 from Kanjo-Elkamira-Ndi/lab01
+4bd9fb182d208563146f8bd11d89151c5566c32d | Kanjo-Elkamira-Ndi | 2026-03-03 | Lab 1 implemented successfully. All test passed
+78307447ecec108fc7c9723c2ad9b6af96fb0183 | Kanjo-Elkamira-Ndi | 2026-03-03 | First Commit
