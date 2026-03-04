@@ -8,4 +8,6 @@ function momoTransfer(amount){
     return true;
 }
 
+// Validation Layer
+
 module.exports = momoTransfer;
