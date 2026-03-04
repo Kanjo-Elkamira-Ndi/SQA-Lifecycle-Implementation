@@ -1,0 +1,35 @@
+* 56351f8 (HEAD -> develop, tag: v1.0.1-Kanjo_Elkamira_Ndi, main, hotfix/critical-Kanjo_Elkamira_Ndi) Kanjo Elkamira Ndi - Fixed Criticial Bug in the momo tranfer module
+*   b1c1353 (tag: v1.0.0-Kanjo_Elkamira_Ndi) Merge branch 'realease/v1.0.0-Kanjo_Elkamira_Ndi' Lab 4 implemented and features have been merged to the main branch
+|\  
+| * 8c86e81 (origin/realease/v1.0.0-Kanjo_Elkamira_Ndi, realease/v1.0.0-Kanjo_Elkamira_Ndi) Kanjo Elkamira Ndi - Realease v1.0.0 documentation update
+| * 9e8f2dc (origin/feature/balance-inquiry-Kanjo_Elkamira_Ndi, feature/balance-inquiry-Kanjo_Elkamira_Ndi) Kanjo Elkamira Ndi - Refined Balance Inquiry Logic
+| * 9a73d4c Kanjo Elkamira Ndi - Add Balance Inquiry Module
+| * 8a87568 (origin/feature/momo-transfer-Kanjo_Elkamira_Ndi, feature/momo-transfer-Kanjo_Elkamira_Ndi) Kanjo Elkamira Ndi - Modified the momo transfer code
+| * 1dab615 Kanjo Elkamira Ndi - Implement momo transfer logic
+* |   d13c3a7 Merge branch 'lab03' Merging the lab03 branch to the main branch
+|\ \  
+| * | 2500c33 (origin/lab03, lab03) Kanjo Elkamira Ndi -  Lab 3 implemented successfully
+| * |   c5c395b Merge branch 'feature/calculator-Kanjo_Elkamira_Ndi' into lab03 Merge is necessary to demonstrate creating new features, pushing them to a branch then merging back into a single unit
+| |\ \  
+| | * | 89dc557 (origin/feature/calculator-Kanjo_Elkamira_Ndi, feature/calculator-Kanjo_Elkamira_Ndi) Kanjo Elkamira Ndi -Edited calculator Module
+| | * | dec8320 Kanjo Elkamira Ndi - Added calculator Module
+* | | | bb42de7 (origin/main) Merge pull request #4 from Kanjo-Elkamira-Ndi/lab03
+|\| | | 
+| |_|/  
+|/| |   
+| * | 3a45232 Kanjo Elkamira Ndi - Edited Lab 3's Readme.md file
+| |/  
+| * bc2902b Kanjo Elkamira Ndi - Initial Project Setup (For Lab03)
+|/  
+* f3ab4a5 (origin/develop) Readme File Added
+*   61de515 Merge pull request #3 from Kanjo-Elkamira-Ndi/lab02
+|\  
+| * ed70465 (origin/lab02, lab02) Lab 2 implemented successfully and all test passed
+* | 9c590b9 Merge pull request #2 from Kanjo-Elkamira-Ndi/lab02
+|\| 
+| * b91c986 Lab 2 files setup successfully
+* | cb1d4d4 Merge pull request #1 from Kanjo-Elkamira-Ndi/lab01
+|\| 
+| * 4bd9fb1 (origin/lab01, lab01) Lab 1 implemented successfully. All test passed
+|/  
+* 7830744 First Commit
