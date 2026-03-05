@@ -1,2 +1,2 @@
 const calc = require('../src/calculator');
-console.log(calc.add(2,3));
+console.log(calc.add(2,3)); 
