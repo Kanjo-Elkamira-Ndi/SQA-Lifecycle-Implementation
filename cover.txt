@@ -1,0 +1,21 @@
+SOFTWARE QUALITY ASSURANCE (SQA) – CONTINUOUS ASSESSMENT LABS
+
+Student Name: Kanjo Elkamira Ndi
+Programme: Master’s of Technology Degree in Software Engineering
+Course: Software Quality Assurance
+Lecturer: Engr. TEDONGMO SAHA
+
+Assignment: SQA Practical Lab Exercises (Lab01 – Lab06)
+
+Programming Language Used: JavaScript (Node.js)
+
+Tools Used:
+
+* Node.js
+* Jest (Unit & Integration Testing)
+* Git & GitFlow (Version Control)
+* Apache JMeter (Performance Testing)
+
+Submission Date: March 05 2025
+
+Institution: Yaounde International Business School

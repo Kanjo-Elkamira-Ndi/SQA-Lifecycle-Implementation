@@ -1,8 +1,8 @@
 {
-  "name": "lab01",
+  "name": "lab06",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "loan_calculator_Kanjo-Elkamira-Ndi.js",
   "scripts": {
     "test": "jest --verbose"
   },
