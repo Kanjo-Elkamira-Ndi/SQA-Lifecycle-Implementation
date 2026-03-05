@@ -1,5 +1,5 @@
 // dataLayer_kanjo_elkamira_ndi.js
-// Author: Kanjo Elkamira Ndi
+// Author: Kanjo Elkamira Ndi 
 // Description: This module implements a simple in-memory data layer(I did not use sqlite) for managing customer information.
 
 class DataLayer {
