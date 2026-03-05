@@ -1,0 +1,57 @@
+* f4a2e3d Kanjo Elkamira Ndi - Task required for lab6 done
+| *   a02f9ae Merge pull request #7 from Kanjo-Elkamira-Ndi/feature/loan-calc-Kanjo_Elkamira_Ndi
+| |\  
+| | * 3c88b60 Merge branch 'main' into feature/loan-calc-Kanjo_Elkamira_Ndi
+| |/| 
+|/|/  
+| *   9089897 Merge pull request #6 from Kanjo-Elkamira-Ndi/feature/momo-transfer-Kanjo_Elkamira_Ndi
+| |\  
+| * \   26e09b4 Merge pull request #5 from Kanjo-Elkamira-Ndi/feature/calculator-Kanjo_Elkamira_Ndi
+| |\ \  
+* | | | de1c22e Kanjo Elkamira Ndi - Task required for lab6 done
+| | | | * f363458 Kanjo Elkamira Ndi - Lab06 Initial Setup
+| |_|_|/  
+|/| | |   
+* | | | 9944c10 Kanjo Elkamira Ndi - Lab 5 implemented, all test successful
+* | | | 3e2d8fe Kanjo Elkamira Ndi - Lab 4 implemented successfully
+* | | | 56351f8 Kanjo Elkamira Ndi - Fixed Criticial Bug in the momo tranfer module
+* | | |   b1c1353 Merge branch 'realease/v1.0.0-Kanjo_Elkamira_Ndi' Lab 4 implemented and features have been merged to the main branch
+|\ \ \ \  
+| * | | | 8c86e81 Kanjo Elkamira Ndi - Realease v1.0.0 documentation update
+| * | | | 9e8f2dc Kanjo Elkamira Ndi - Refined Balance Inquiry Logic
+| * | | | 9a73d4c Kanjo Elkamira Ndi - Add Balance Inquiry Module
+| | |_|/  
+| |/| |   
+| * | | 8a87568 Kanjo Elkamira Ndi - Modified the momo transfer code
+| * | | 1dab615 Kanjo Elkamira Ndi - Implement momo transfer logic
+* | | |   d13c3a7 Merge branch 'lab03' Merging the lab03 branch to the main branch
+|\ \ \ \  
+| |_|/ /  
+|/| | |   
+| * | | 2500c33 Kanjo Elkamira Ndi -  Lab 3 implemented successfully
+| * | |   c5c395b Merge branch 'feature/calculator-Kanjo_Elkamira_Ndi' into lab03 Merge is necessary to demonstrate creating new features, pushing them to a branch then merging back into a single unit
+| |\ \ \  
+| | | |/  
+| | |/|   
+| | * | 89dc557 Kanjo Elkamira Ndi -Edited calculator Module
+| | * | dec8320 Kanjo Elkamira Ndi - Added calculator Module
+* | | | bb42de7 Merge pull request #4 from Kanjo-Elkamira-Ndi/lab03
+|\| | | 
+| |_|/  
+|/| |   
+| * | 3a45232 Kanjo Elkamira Ndi - Edited Lab 3's Readme.md file
+| |/  
+| * bc2902b Kanjo Elkamira Ndi - Initial Project Setup (For Lab03)
+|/  
+* f3ab4a5 Readme File Added
+*   61de515 Merge pull request #3 from Kanjo-Elkamira-Ndi/lab02
+|\  
+| * ed70465 Lab 2 implemented successfully and all test passed
+* | 9c590b9 Merge pull request #2 from Kanjo-Elkamira-Ndi/lab02
+|\| 
+| * b91c986 Lab 2 files setup successfully
+* | cb1d4d4 Merge pull request #1 from Kanjo-Elkamira-Ndi/lab01
+|\| 
+| * 4bd9fb1 Lab 1 implemented successfully. All test passed
+|/  
+* 7830744 First Commit
