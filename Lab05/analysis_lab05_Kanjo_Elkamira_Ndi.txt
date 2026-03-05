@@ -1,0 +1,46 @@
+## Analysis: Lab 05 - Performance & Stress Testing
+
+**File Name:** `analysis_lab05_Kanjo_Elkamira_Ndi.txt`
+**Author:** Kanjo Elkamira Ndi
+
+### 1. Load Test Performance Analysis
+
+In the initial load test (Run 1), the **Average Response Time** across all requests was approximately **1199 ms**, 
+with the "List Customers" request peaking at **1820 ms**. In a real-world banking context, these results are 
+**marginally acceptable but suboptimal**. Industry standards for banking transactions typically demand a response time 
+under **2 seconds** for simple queries and under **500 ms** for critical transaction processing to ensure a seamless user 
+experience. While no errors occurred ($0.00\%$ error rate), the high maximum response time of **46,055 ms** (46 seconds) 
+indicates a potential bottleneck that could frustrate users during peak hours.
+
+### 2. Stress Test & Performance Degradation
+
+Performance began to significantly degrade during **Run 3 (100 users)**. While the system remained functional, the average 
+response time jumped to **8236 ms**, and the 99th percentile reached a staggering **182,213 ms**. By **Run 4 (200 users)**, 
+the average response time climbed to **9708 ms**, and the error rate increased to **0.52%**. This suggests that the system's 
+"breaking point" or saturation level is between **50 and 100 concurrent users**, where the throughput can no longer keep up 
+with the incoming request rate, leading to queued requests and increased latency.
+
+### 3. Capacity Recommendations
+
+If this were a production banking system, I would recommend a **maximum of 50 concurrent users** for the current 
+infrastructure. At this level, the system maintains a $0.00\%$ error rate and a median response time of **649 ms**, which 
+provides a stable buffer for unexpected spikes without reaching the degradation seen at 100 users.
+
+### 4. Infrastructure Improvements
+
+To improve performance and increase the **Mean Time Between Failures (MTBF)**, I recommend implementing **Horizontal Scaling** 
+(adding more server instances) behind a **Load Balancer**. This distributes traffic and increases system **Availability**. 
+Additionally, implementing **Database Indexing** for the "List Customers" endpoint and **Caching** (using Redis or Memcached) 
+for static account details would significantly reduce the processing load on the backend, ensuring higher throughput and lower 
+response times during high-stress periods.
+
+---
+
+### Stress Comparison Table Data
+
+| Users | Avg Response (ms) | Max Response (ms) | Error % | Throughput (req/s) |
+| --- | --- | --- | --- | --- |
+| **10** (Run 1) | 1199 | 46055 | 0.00% | 4.3/sec |
+| **50** (Run 2) | 4071 | 205348 | 0.08% | 5.7/sec |
+| **100** (Run 3) | 8236 | 364900 | 0.13% | 4.2/sec |
+| **200** (Run 4) | 9708 | 252822 | 0.52% | 7.6/sec |
