@@ -15,10 +15,15 @@ The labs simulate a **real-world banking software development environment**, app
 This repository was created to demonstrate practical implementation of **Software Quality Assurance principles** including:
 
 ✅ Unit Testing
+
 ✅ Integration Testing
+
 ✅ Version Control & Configuration Management
+
 ✅ Git Branching Strategy (GitFlow Simulation)
+
 ✅ Release Management & Version Tagging
+
 ✅ Performance & Load Testing
 
 The project showcases how **testing, version control, and performance validation integrate within a real software development workflow**.
