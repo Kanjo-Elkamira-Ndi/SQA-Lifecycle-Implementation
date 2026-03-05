@@ -9,6 +9,8 @@ Assignment: SQA Practical Lab Exercises (Lab01 – Lab06)
 
 Programming Language Used: JavaScript (Node.js)
 
+OS Used: Ubuntu 24.04.4 LTS
+
 Tools Used:
 
 * Node.js
