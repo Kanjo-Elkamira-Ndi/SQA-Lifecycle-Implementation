@@ -1,7 +1,7 @@
 SOFTWARE QUALITY ASSURANCE (SQA) – CONTINUOUS ASSESSMENT LABS
 
-Student Name: Kanjo Elkamira Ndi
-Programme: Master’s of Technology Degree in Software Engineering
+Name: Kanjo Elkamira Ndi
+Programme: Master’s of Technology (MTECH) Degree in Software Engineering
 Course: Software Quality Assurance
 Lecturer: Engr. TEDONGMO SAHA
 
