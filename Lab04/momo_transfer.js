@@ -9,5 +9,6 @@ function momoTransfer(amount){
 }
 
 // Validation Layer
+// Modifying this file to simulate fixing of a critical bug
 
 module.exports = momoTransfer;
