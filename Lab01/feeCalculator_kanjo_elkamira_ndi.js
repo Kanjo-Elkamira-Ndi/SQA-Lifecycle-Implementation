@@ -1,5 +1,5 @@
 // feeCalculator_kanjo_elkamira_ndi.js
-// Author: Kanjo Elkamira Ndi
+// Author: Kanjo Elkamira Ndi 
 // Description: This module calculates transaction fees based on the type of transaction and the amount involved.
 
 function calculateFee(transactionType, amount) {
